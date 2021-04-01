@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Itamar and i am graduated in database and developer with current focus on python and big data.
 
-<img align="right" alt="img" src="https://i.pinimg.com/564x/9c/8a/23/9c8a23f66e278ee8e8f636856a63e5e0.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://i.pinimg.com/564x/43/d9/6c/43d96cf0413eeb7c4eca055413545ade.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
@@ -23,7 +23,7 @@ Welcome to my Github page! I am Itamar and i am graduated in database and develo
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+	
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
